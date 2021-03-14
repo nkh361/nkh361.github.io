@@ -15,7 +15,7 @@
 
         <a href="https://devpost.com/software/covid-19-travel-app" target="_blank" rel="noopener"> Devpost Posting </a>
         <h4>
-          Chicago data app
+          Chicago crime data app
         </h4>
         <p>
           The purpose of this app is to advise users of their surroundings and overall allow safer commuting around Chicago. The app will periodically inform users of the crime frequency 
