@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Degenerate Selfie" src="./assets/logo.png">
+    <img alt="Degenerate Selfie" src="./assets/linkedinxd.jpeg">
     <intro msg="Nathan Ho (nkh361)"/>
     <br>
     <homebody msg="Experience"/>

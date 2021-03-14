@@ -1,0 +1,2 @@
+logo dimensions
+  200x180
